@@ -1,0 +1,4 @@
+requests==2.32.3
+selenium==4.25.0
+webdriver-manager==4.0.2
+aiohttp==3.10.8
