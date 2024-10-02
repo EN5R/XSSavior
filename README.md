@@ -19,7 +19,7 @@ XSSavior is a robust tool designed to identify cross-site scripting (XSS) vulner
 
 ## Videos
 [https://github.com/EN5R/SQLspectre/blob/main/src/XSSavior.mp4
-]()
+](https://github-production-user-asset-6210df.s3.amazonaws.com/104204586/372916072-2d35ef68-6a01-4293-a9dc-52a83e0f50f4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T150224Z&X-Amz-Expires=300&X-Amz-Signature=e98a3590b94160ec1b4174b90387736dc4e9ea2b4a4a187348be89f3231ad69d&X-Amz-SignedHeaders=host)
 
 
 ## Usage
